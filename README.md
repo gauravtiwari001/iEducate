@@ -1,0 +1,1 @@
+Here I have created a iEducate name Website using HTML and CSS ( External). Codes and other important texts can be veiwed easily if you are interested and can examine what procedure i used for this as well.
